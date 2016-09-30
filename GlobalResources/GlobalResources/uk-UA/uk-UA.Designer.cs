@@ -22,7 +22,7 @@ namespace GlobalResources.uk_UA {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class uk_UA {
+    public class uk_UA {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace GlobalResources.uk_UA {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GlobalResources.uk_UA.uk-UA", typeof(uk_UA).Assembly);
@@ -51,7 +51,7 @@ namespace GlobalResources.uk_UA {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Додати рядок.
         /// </summary>
-        internal static string AddNewBarButton_Caption {
+        public static string AddNewBarButton_Caption {
             get {
                 return ResourceManager.GetString("AddNewBarButton_Caption", resourceCulture);
             }
@@ -74,7 +74,7 @@ namespace GlobalResources.uk_UA {
         ///Повідомлення вже вислано на пошту
         ///Будь-ласка перезапустіть програму!.
         /// </summary>
-        internal static string Application_Logic_Error {
+        public static string Application_Logic_Error {
             get {
                 return ResourceManager.GetString("Application_Logic_Error", resourceCulture);
             }
@@ -83,7 +83,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Додатково.
         /// </summary>
-        internal static string ApplicationMenu_Caption {
+        public static string ApplicationMenu_Caption {
             get {
                 return ResourceManager.GetString("ApplicationMenu_Caption", resourceCulture);
             }
@@ -94,7 +94,7 @@ namespace GlobalResources.uk_UA {
         ///&quot;OK&quot; - постійно провіряти доступність сайту,
         ///або &quot;Скасувати&quot; - щоб відмінити..
         /// </summary>
-        internal static string AvailabilityError_Message {
+        public static string AvailabilityError_Message {
             get {
                 return ResourceManager.GetString("AvailabilityError_Message", resourceCulture);
             }
@@ -103,7 +103,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Імпорт клієнтів.
         /// </summary>
-        internal static string BarButtonItemImport_Caption {
+        public static string BarButtonItemImport_Caption {
             get {
                 return ResourceManager.GetString("BarButtonItemImport_Caption", resourceCulture);
             }
@@ -112,7 +112,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Налаштування.
         /// </summary>
-        internal static string BarButtonItemSetup_Caption {
+        public static string BarButtonItemSetup_Caption {
             get {
                 return ResourceManager.GetString("BarButtonItemSetup_Caption", resourceCulture);
             }
@@ -121,7 +121,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Скасувати.
         /// </summary>
-        internal static string ButtonCancel_Text {
+        public static string ButtonCancel_Text {
             get {
                 return ResourceManager.GetString("ButtonCancel_Text", resourceCulture);
             }
@@ -130,7 +130,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Відмінити процес.
         /// </summary>
-        internal static string ButtonCancelAction_Text {
+        public static string ButtonCancelAction_Text {
             get {
                 return ResourceManager.GetString("ButtonCancelAction_Text", resourceCulture);
             }
@@ -139,7 +139,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Завантажити проксі.
         /// </summary>
-        internal static string ButtonLoadProxies_Text {
+        public static string ButtonLoadProxies_Text {
             get {
                 return ResourceManager.GetString("ButtonLoadProxies_Text", resourceCulture);
             }
@@ -148,7 +148,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Зберегти.
         /// </summary>
-        internal static string ButtonOk_Text {
+        public static string ButtonOk_Text {
             get {
                 return ResourceManager.GetString("ButtonOk_Text", resourceCulture);
             }
@@ -157,7 +157,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Запустити реєстрацію.
         /// </summary>
-        internal static string ButtonRegistry_Text {
+        public static string ButtonRegistry_Text {
             get {
                 return ResourceManager.GetString("ButtonRegistry_Text", resourceCulture);
             }
@@ -166,7 +166,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Відмінити.
         /// </summary>
-        internal static string CancelBarButton_Caption {
+        public static string CancelBarButton_Caption {
             get {
                 return ResourceManager.GetString("CancelBarButton_Caption", resourceCulture);
             }
@@ -175,7 +175,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Дата народження.
         /// </summary>
-        internal static string colBirthday {
+        public static string colBirthday {
             get {
                 return ResourceManager.GetString("colBirthday", resourceCulture);
             }
@@ -184,7 +184,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to К-ть дітей у паспорті батьків.
         /// </summary>
-        internal static string colChildsCount {
+        public static string colChildsCount {
             get {
                 return ResourceManager.GetString("colChildsCount", resourceCulture);
             }
@@ -193,7 +193,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Дата закінчення дії паспорту.
         /// </summary>
-        internal static string colEndPassportDate {
+        public static string colEndPassportDate {
             get {
                 return ResourceManager.GetString("colEndPassportDate", resourceCulture);
             }
@@ -202,7 +202,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Прізвище.
         /// </summary>
-        internal static string colLastName {
+        public static string colLastName {
             get {
                 return ResourceManager.GetString("colLastName", resourceCulture);
             }
@@ -211,7 +211,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Ім&apos;я.
         /// </summary>
-        internal static string colName {
+        public static string colName {
             get {
                 return ResourceManager.GetString("colName", resourceCulture);
             }
@@ -220,7 +220,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to № квитанції.
         /// </summary>
-        internal static string colNumberOfReceipt {
+        public static string colNumberOfReceipt {
             get {
                 return ResourceManager.GetString("colNumberOfReceipt", resourceCulture);
             }
@@ -229,7 +229,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Кількість заявників.
         /// </summary>
-        internal static string colPeopleCount {
+        public static string colPeopleCount {
             get {
                 return ResourceManager.GetString("colPeopleCount", resourceCulture);
             }
@@ -238,7 +238,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Реєстрація З.
         /// </summary>
-        internal static string colRegistryFom {
+        public static string colRegistryFom {
             get {
                 return ResourceManager.GetString("colRegistryFom", resourceCulture);
             }
@@ -247,7 +247,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to RegistryFom.
         /// </summary>
-        internal static string colRegistryFom_DataColumn_Name {
+        public static string colRegistryFom_DataColumn_Name {
             get {
                 return ResourceManager.GetString("colRegistryFom_DataColumn_Name", resourceCulture);
             }
@@ -256,7 +256,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Дата повинна бути скоріше за &quot;Реєстрація До&quot;.
         /// </summary>
-        internal static string colRegistryFom_ValidationError {
+        public static string colRegistryFom_ValidationError {
             get {
                 return ResourceManager.GetString("colRegistryFom_ValidationError", resourceCulture);
             }
@@ -265,7 +265,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Час реєстрації.
         /// </summary>
-        internal static string colRegistryTime {
+        public static string colRegistryTime {
             get {
                 return ResourceManager.GetString("colRegistryTime", resourceCulture);
             }
@@ -274,7 +274,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Реєстрація До.
         /// </summary>
-        internal static string colRegistryTo {
+        public static string colRegistryTo {
             get {
                 return ResourceManager.GetString("colRegistryTo", resourceCulture);
             }
@@ -283,7 +283,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to RegistryTo.
         /// </summary>
-        internal static string colRegistryTo_DataColumn_Name {
+        public static string colRegistryTo_DataColumn_Name {
             get {
                 return ResourceManager.GetString("colRegistryTo_DataColumn_Name", resourceCulture);
             }
@@ -292,7 +292,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Дата повинна бути пізніше за &quot;Реєстрація З&quot;.
         /// </summary>
-        internal static string colRegistryTo_ValidationError {
+        public static string colRegistryTo_ValidationError {
             get {
                 return ResourceManager.GetString("colRegistryTo_ValidationError", resourceCulture);
             }
@@ -301,7 +301,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Дата повернення.
         /// </summary>
-        internal static string colReturnData {
+        public static string colReturnData {
             get {
                 return ResourceManager.GetString("colReturnData", resourceCulture);
             }
@@ -310,7 +310,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Статус.
         /// </summary>
-        internal static string colStatus {
+        public static string colStatus {
             get {
                 return ResourceManager.GetString("colStatus", resourceCulture);
             }
@@ -319,7 +319,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Реєстрацію завершено.
         /// </summary>
-        internal static string Complete_Registration {
+        public static string Complete_Registration {
             get {
                 return ResourceManager.GetString("Complete_Registration", resourceCulture);
             }
@@ -328,7 +328,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Скопіювати ключ.
         /// </summary>
-        internal static string CopyBarButton_Caption {
+        public static string CopyBarButton_Caption {
             get {
                 return ResourceManager.GetString("CopyBarButton_Caption", resourceCulture);
             }
@@ -337,7 +337,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Замовник.
         /// </summary>
-        internal static string CustomerBarEdit_Caption {
+        public static string CustomerBarEdit_Caption {
             get {
                 return ResourceManager.GetString("CustomerBarEdit_Caption", resourceCulture);
             }
@@ -346,7 +346,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Замовники.
         /// </summary>
-        internal static string CustomersBarButton_Caption {
+        public static string CustomersBarButton_Caption {
             get {
                 return ResourceManager.GetString("CustomersBarButton_Caption", resourceCulture);
             }
@@ -356,7 +356,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Дата не відповідає діапазону 
         ///{0}.
         /// </summary>
-        internal static string DateIncorrect_Message {
+        public static string DateIncorrect_Message {
             get {
                 return ResourceManager.GetString("DateIncorrect_Message", resourceCulture);
             }
@@ -366,7 +366,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Вибрано {0}
         ///як дату рестрації.
         /// </summary>
-        internal static string DateSelected_Message {
+        public static string DateSelected_Message {
             get {
                 return ResourceManager.GetString("DateSelected_Message", resourceCulture);
             }
@@ -376,7 +376,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Дата для реєстрації є доступна
         ///{0}.
         /// </summary>
-        internal static string DateСorrect_Message {
+        public static string DateСorrect_Message {
             get {
                 return ResourceManager.GetString("DateСorrect_Message", resourceCulture);
             }
@@ -385,7 +385,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Видалити всі рядки.
         /// </summary>
-        internal static string DeleteAllBarButton_Caption {
+        public static string DeleteAllBarButton_Caption {
             get {
                 return ResourceManager.GetString("DeleteAllBarButton_Caption", resourceCulture);
             }
@@ -394,7 +394,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Видалити рядок.
         /// </summary>
-        internal static string DeleteBarButton_Caption {
+        public static string DeleteBarButton_Caption {
             get {
                 return ResourceManager.GetString("DeleteBarButton_Caption", resourceCulture);
             }
@@ -403,7 +403,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Операції з базою.
         /// </summary>
-        internal static string EditGroup_title {
+        public static string EditGroup_title {
             get {
                 return ResourceManager.GetString("EditGroup_title", resourceCulture);
             }
@@ -412,7 +412,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Команди.
         /// </summary>
-        internal static string EditPage_Title {
+        public static string EditPage_Title {
             get {
                 return ResourceManager.GetString("EditPage_Title", resourceCulture);
             }
@@ -424,7 +424,7 @@ namespace GlobalResources.uk_UA {
         ///Будь-ласка пришліть детальний опис 
         ///ваших дій  і опис помилки що є внизу..
         /// </summary>
-        internal static string ExceptionHanler_Text {
+        public static string ExceptionHanler_Text {
             get {
                 return ResourceManager.GetString("ExceptionHanler_Text", resourceCulture);
             }
@@ -433,7 +433,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Помилка.
         /// </summary>
-        internal static string ExceptionHanler_Title {
+        public static string ExceptionHanler_Title {
             get {
                 return ResourceManager.GetString("ExceptionHanler_Title", resourceCulture);
             }
@@ -444,7 +444,7 @@ namespace GlobalResources.uk_UA {
         ///Та виберіть дату реєстрації
         ///Після цьго натисніть ТУТ!!!.
         /// </summary>
-        internal static string Fill_Calendar_And_Captcha {
+        public static string Fill_Calendar_And_Captcha {
             get {
                 return ResourceManager.GetString("Fill_Calendar_And_Captcha", resourceCulture);
             }
@@ -454,7 +454,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Реєстрацію завершено, 
         ///випевніть капчу і виберіть дату.
         /// </summary>
-        internal static string FillCaptchaAndComplete {
+        public static string FillCaptchaAndComplete {
             get {
                 return ResourceManager.GetString("FillCaptchaAndComplete", resourceCulture);
             }
@@ -463,7 +463,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Випевніть капчу і натисніть ТУТ..
         /// </summary>
-        internal static string FillCaptchaAndPress {
+        public static string FillCaptchaAndPress {
             get {
                 return ResourceManager.GetString("FillCaptchaAndPress", resourceCulture);
             }
@@ -473,7 +473,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Цей ключ уже використовуєтся 
         ///іншим комп&apos;ютером.
         /// </summary>
-        internal static string Key_Used {
+        public static string Key_Used {
             get {
                 return ResourceManager.GetString("Key_Used", resourceCulture);
             }
@@ -482,7 +482,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Даний ключ не знайдено!.
         /// </summary>
-        internal static string KeyNotFound {
+        public static string KeyNotFound {
             get {
                 return ResourceManager.GetString("KeyNotFound", resourceCulture);
             }
@@ -491,7 +491,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to URL для провірки доступності сайту.
         /// </summary>
-        internal static string lblAvailabilityUrl {
+        public static string lblAvailabilityUrl {
             get {
                 return ResourceManager.GetString("lblAvailabilityUrl", resourceCulture);
             }
@@ -500,7 +500,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Відміна команди.
         /// </summary>
-        internal static string lblCancelGroup {
+        public static string lblCancelGroup {
             get {
                 return ResourceManager.GetString("lblCancelGroup", resourceCulture);
             }
@@ -509,7 +509,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Виберіть проксі (Click).
         /// </summary>
-        internal static string lblChooseProxies {
+        public static string lblChooseProxies {
             get {
                 return ResourceManager.GetString("lblChooseProxies", resourceCulture);
             }
@@ -518,7 +518,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Дані клієнтів.
         /// </summary>
-        internal static string lblClientDataGroup {
+        public static string lblClientDataGroup {
             get {
                 return ResourceManager.GetString("lblClientDataGroup", resourceCulture);
             }
@@ -527,7 +527,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Закрити бравзер після закінчення?.
         /// </summary>
-        internal static string lblCloseBrowser {
+        public static string lblCloseBrowser {
             get {
                 return ResourceManager.GetString("lblCloseBrowser", resourceCulture);
             }
@@ -536,7 +536,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Email для відправки реєстрації.
         /// </summary>
-        internal static string lblEmail {
+        public static string lblEmail {
             get {
                 return ResourceManager.GetString("lblEmail", resourceCulture);
             }
@@ -545,7 +545,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Сервісний центр:.
         /// </summary>
-        internal static string lblServiceCenter {
+        public static string lblServiceCenter {
             get {
                 return ResourceManager.GetString("lblServiceCenter", resourceCulture);
             }
@@ -554,7 +554,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Візова категорія:.
         /// </summary>
-        internal static string lblVisaCategory {
+        public static string lblVisaCategory {
             get {
                 return ResourceManager.GetString("lblVisaCategory", resourceCulture);
             }
@@ -563,7 +563,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Ліцензії.
         /// </summary>
-        internal static string LicensesBarButton_Caption {
+        public static string LicensesBarButton_Caption {
             get {
                 return ResourceManager.GetString("LicensesBarButton_Caption", resourceCulture);
             }
@@ -572,7 +572,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Основні таблиці.
         /// </summary>
-        internal static string MainGroup_Title {
+        public static string MainGroup_Title {
             get {
                 return ResourceManager.GetString("MainGroup_Title", resourceCulture);
             }
@@ -581,7 +581,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Таблиці.
         /// </summary>
-        internal static string MainPage_Title {
+        public static string MainPage_Title {
             get {
                 return ResourceManager.GetString("MainPage_Title", resourceCulture);
             }
@@ -590,7 +590,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to -Оберіть Національніть-.
         /// </summary>
-        internal static string Nationality_NullText {
+        public static string Nationality_NullText {
             get {
                 return ResourceManager.GetString("Nationality_NullText", resourceCulture);
             }
@@ -599,7 +599,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Національність.
         /// </summary>
-        internal static string Nationality_Text {
+        public static string Nationality_Text {
             get {
                 return ResourceManager.GetString("Nationality_Text", resourceCulture);
             }
@@ -608,7 +608,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Вільних дат не має.
         /// </summary>
-        internal static string NoDate_Message {
+        public static string NoDate_Message {
             get {
                 return ResourceManager.GetString("NoDate_Message", resourceCulture);
             }
@@ -618,7 +618,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Будь-ласка виберіть Excel документ 
         ///з даними по шаблону.
         /// </summary>
-        internal static string OpenFileDialog_Title {
+        public static string OpenFileDialog_Title {
             get {
                 return ResourceManager.GetString("OpenFileDialog_Title", resourceCulture);
             }
@@ -627,7 +627,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Операції з таблицьою.
         /// </summary>
-        internal static string OperationsGroup_Title {
+        public static string OperationsGroup_Title {
             get {
                 return ResourceManager.GetString("OperationsGroup_Title", resourceCulture);
             }
@@ -636,7 +636,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Польський візовий центр доступний.
         /// </summary>
-        internal static string PageAvailable {
+        public static string PageAvailable {
             get {
                 return ResourceManager.GetString("PageAvailable", resourceCulture);
             }
@@ -645,7 +645,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Сайт недоступний.
         /// </summary>
-        internal static string PageNotAvailable {
+        public static string PageNotAvailable {
             get {
                 return ResourceManager.GetString("PageNotAvailable", resourceCulture);
             }
@@ -654,7 +654,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Пароль.
         /// </summary>
-        internal static string Password_Text {
+        public static string Password_Text {
             get {
                 return ResourceManager.GetString("Password_Text", resourceCulture);
             }
@@ -663,7 +663,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Оновити.
         /// </summary>
-        internal static string RefreshBarButton_Caption {
+        public static string RefreshBarButton_Caption {
             get {
                 return ResourceManager.GetString("RefreshBarButton_Caption", resourceCulture);
             }
@@ -672,7 +672,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to -Час Реєстрації-.
         /// </summary>
-        internal static string RegistryTime_NullText {
+        public static string RegistryTime_NullText {
             get {
                 return ResourceManager.GetString("RegistryTime_NullText", resourceCulture);
             }
@@ -681,7 +681,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Повторно запускати при помилці.
         /// </summary>
-        internal static string RepeatIfCrash_Text {
+        public static string RepeatIfCrash_Text {
             get {
                 return ResourceManager.GetString("RepeatIfCrash_Text", resourceCulture);
             }
@@ -690,7 +690,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Зберегти.
         /// </summary>
-        internal static string SaveBarButton_Caption {
+        public static string SaveBarButton_Caption {
             get {
                 return ResourceManager.GetString("SaveBarButton_Caption", resourceCulture);
             }
@@ -699,7 +699,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Результати пошуку.
         /// </summary>
-        internal static string SearchResult {
+        public static string SearchResult {
             get {
                 return ResourceManager.GetString("SearchResult", resourceCulture);
             }
@@ -709,7 +709,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Сервер не відповідає. Щоб поторити
         /// спробу запустіть перевірку знову!.
         /// </summary>
-        internal static string ServerError {
+        public static string ServerError {
             get {
                 return ResourceManager.GetString("ServerError", resourceCulture);
             }
@@ -718,7 +718,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to -Оберіть ППВА-.
         /// </summary>
-        internal static string ServiceCenter_NullText {
+        public static string ServiceCenter_NullText {
             get {
                 return ResourceManager.GetString("ServiceCenter_NullText", resourceCulture);
             }
@@ -727,7 +727,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Доступні скіни до вибору.
         /// </summary>
-        internal static string SkinGroup_Title {
+        public static string SkinGroup_Title {
             get {
                 return ResourceManager.GetString("SkinGroup_Title", resourceCulture);
             }
@@ -736,7 +736,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Кастомізація.
         /// </summary>
-        internal static string SkinPage_Title {
+        public static string SkinPage_Title {
             get {
                 return ResourceManager.GetString("SkinPage_Title", resourceCulture);
             }
@@ -745,7 +745,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to -Оберіть Статус-.
         /// </summary>
-        internal static string Status_NullText {
+        public static string Status_NullText {
             get {
                 return ResourceManager.GetString("Status_NullText", resourceCulture);
             }
@@ -754,7 +754,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Ні.
         /// </summary>
-        internal static string ToggleSwitch_OffText {
+        public static string ToggleSwitch_OffText {
             get {
                 return ResourceManager.GetString("ToggleSwitch_OffText", resourceCulture);
             }
@@ -763,7 +763,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Так.
         /// </summary>
-        internal static string ToggleSwitch_OnText {
+        public static string ToggleSwitch_OnText {
             get {
                 return ResourceManager.GetString("ToggleSwitch_OnText", resourceCulture);
             }
@@ -772,7 +772,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Будь-ласка виберіть замовника.
         /// </summary>
-        internal static string ValidationError_Message_Customer {
+        public static string ValidationError_Message_Customer {
             get {
                 return ResourceManager.GetString("ValidationError_Message_Customer", resourceCulture);
             }
@@ -782,7 +782,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Будь-ласка випевніть візовий ценрт
         /// і візову категорію.
         /// </summary>
-        internal static string ValidationError_Message_FirstPart {
+        public static string ValidationError_Message_FirstPart {
             get {
                 return ResourceManager.GetString("ValidationError_Message_FirstPart", resourceCulture);
             }
@@ -791,7 +791,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Це поле повинно містити в собі значення.
         /// </summary>
-        internal static string ValidationError_Message_NullText {
+        public static string ValidationError_Message_NullText {
             get {
                 return ResourceManager.GetString("ValidationError_Message_NullText", resourceCulture);
             }
@@ -800,7 +800,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Будь-ласка випевніть пошту в опціях.
         /// </summary>
-        internal static string ValidationError_Message_Option_Email {
+        public static string ValidationError_Message_Option_Email {
             get {
                 return ResourceManager.GetString("ValidationError_Message_Option_Email", resourceCulture);
             }
@@ -809,7 +809,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Будь-ласка випевніть пароль в опціях.
         /// </summary>
-        internal static string ValidationError_Message_Option_Password {
+        public static string ValidationError_Message_Option_Password {
             get {
                 return ResourceManager.GetString("ValidationError_Message_Option_Password", resourceCulture);
             }
@@ -818,7 +818,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Будь-ласка перевірте введені вами дані.
         /// </summary>
-        internal static string ValidationError_Message_SecondPart {
+        public static string ValidationError_Message_SecondPart {
             get {
                 return ResourceManager.GetString("ValidationError_Message_SecondPart", resourceCulture);
             }
@@ -827,7 +827,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Валідація не пройдена.
         /// </summary>
-        internal static string ValidationError_Title {
+        public static string ValidationError_Title {
             get {
                 return ResourceManager.GetString("ValidationError_Title", resourceCulture);
             }
@@ -836,7 +836,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to -Оберіть візову категорію-.
         /// </summary>
-        internal static string VisaCategory_NullText {
+        public static string VisaCategory_NullText {
             get {
                 return ResourceManager.GetString("VisaCategory_NullText", resourceCulture);
             }
@@ -845,7 +845,7 @@ namespace GlobalResources.uk_UA {
         /// <summary>
         ///   Looks up a localized string similar to Сторінка не загрузила всі компоненти.
         /// </summary>
-        internal static string WebPage_StillNotLoaded {
+        public static string WebPage_StillNotLoaded {
             get {
                 return ResourceManager.GetString("WebPage_StillNotLoaded", resourceCulture);
             }
@@ -855,7 +855,7 @@ namespace GlobalResources.uk_UA {
         ///   Looks up a localized string similar to Сервер недоступний.
         ///Сторінка буде перезагружена!.
         /// </summary>
-        internal static string WebPage_WillBeReloaded {
+        public static string WebPage_WillBeReloaded {
             get {
                 return ResourceManager.GetString("WebPage_WillBeReloaded", resourceCulture);
             }

@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="uk-UA\uk-UA.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>uk-UA.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
