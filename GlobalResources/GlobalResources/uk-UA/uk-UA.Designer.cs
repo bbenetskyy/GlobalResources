@@ -561,6 +561,24 @@ namespace GlobalResources.uk_UA {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Зареєструвати.
+        /// </summary>
+        public static string LicenseForm_RegButton {
+            get {
+                return ResourceManager.GetString("LicenseForm_RegButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Будь-ласка введіть ліцензійний ключ.
+        /// </summary>
+        public static string LicenseForm_Title {
+            get {
+                return ResourceManager.GetString("LicenseForm_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ліцензії.
         /// </summary>
         public static string LicensesBarButton_Caption {

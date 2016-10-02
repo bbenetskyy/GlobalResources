@@ -138,5 +138,7 @@
         public const string SaveBarButton_Caption = "SaveBarButton_Caption";
         public const string SkinGroup_Title = "SkinGroup_Title";
         public const string SkinPage_Title = "SkinPage_Title";
+        public const string LicenseForm_Title = "LicenseForm_Title";
+        public const string LicenseForm_RegButton = "LicenseForm_RegButton";
     }
 }

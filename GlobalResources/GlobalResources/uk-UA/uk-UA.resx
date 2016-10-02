@@ -342,7 +342,7 @@
   <data name="lblChooseProxies" xml:space="preserve">
     <value>Виберіть проксі (Click)</value>
   </data>
- <data name="AddNewBarButton_Caption" xml:space="preserve">
+  <data name="AddNewBarButton_Caption" xml:space="preserve">
     <value>Додати рядок</value>
   </data>
   <data name="CancelBarButton_Caption" xml:space="preserve">
@@ -395,5 +395,11 @@
   </data>
   <data name="ValidationError_Message_Customer" xml:space="preserve">
     <value>Будь-ласка виберіть замовника</value>
+  </data>
+  <data name="LicenseForm_RegButton" xml:space="preserve">
+    <value>Зареєструвати</value>
+  </data>
+  <data name="LicenseForm_Title" xml:space="preserve">
+    <value>Будь-ласка введіть ліцензійний ключ</value>
   </data>
 </root>
