@@ -402,4 +402,7 @@
   <data name="LicenseForm_Title" xml:space="preserve">
     <value>Будь-ласка введіть ліцензійний ключ</value>
   </data>
+  <data name="Worker_IsBusy" xml:space="preserve">
+    <value>Зачекайте будь ласка закінчення попередньої операції</value>
+  </data>
 </root>

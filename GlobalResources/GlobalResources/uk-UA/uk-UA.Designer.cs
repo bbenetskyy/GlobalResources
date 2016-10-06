@@ -878,5 +878,14 @@ namespace GlobalResources.uk_UA {
                 return ResourceManager.GetString("WebPage_WillBeReloaded", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Зачекайте будь ласка закінчення попередньої операції.
+        /// </summary>
+        public static string Worker_IsBusy {
+            get {
+                return ResourceManager.GetString("Worker_IsBusy", resourceCulture);
+            }
+        }
     }
 }
