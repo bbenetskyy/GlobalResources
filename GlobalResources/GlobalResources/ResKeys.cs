@@ -141,5 +141,6 @@
         public const string LicenseForm_Title = "LicenseForm_Title";
         public const string LicenseForm_RegButton = "LicenseForm_RegButton";
         public const string Worker_IsBusy = "Worker_IsBusy";
+        public const string Key_NotActive = "Key_NotActive";
     }
 }

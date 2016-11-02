@@ -405,4 +405,8 @@
   <data name="Worker_IsBusy" xml:space="preserve">
     <value>Зачекайте будь ласка закінчення попередньої операції</value>
   </data>
+  <data name="Key_NotActive" xml:space="preserve">
+    <value>Вийшов термін дії активації ключа. 
+Для подальшоговокористання звернітся до дистриб'ютора.</value>
+  </data>
 </root>

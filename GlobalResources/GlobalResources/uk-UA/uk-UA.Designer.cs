@@ -470,21 +470,31 @@ namespace GlobalResources.uk_UA {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Даний ключ не знайдено!.
+        /// </summary>
+        public static string Key_NotActiv {
+            get {
+                return ResourceManager.GetString("Key_NotActiv", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Вийшов термін дії активації ключа. 
+        ///Для подальшоговокористання звернітся до дистриб&apos;ютора..
+        /// </summary>
+        public static string Key_NotActive {
+            get {
+                return ResourceManager.GetString("Key_NotActive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Цей ключ уже використовуєтся 
         ///іншим комп&apos;ютером.
         /// </summary>
         public static string Key_Used {
             get {
                 return ResourceManager.GetString("Key_Used", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Даний ключ не знайдено!.
-        /// </summary>
-        public static string KeyNotFound {
-            get {
-                return ResourceManager.GetString("KeyNotFound", resourceCulture);
             }
         }
         
