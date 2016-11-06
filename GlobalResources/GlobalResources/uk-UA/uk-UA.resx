@@ -415,4 +415,7 @@
   <data name="Label_ChekForUpdate" xml:space="preserve">
     <value>Перевіряти на наявність оновлень</value>
   </data>
+  <data name="Label_CaptchaId" xml:space="preserve">
+    <value>Ключ до сервісу ReCaptcha</value>
+  </data>
 </root>

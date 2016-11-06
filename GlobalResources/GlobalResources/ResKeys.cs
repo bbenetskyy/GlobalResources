@@ -95,5 +95,6 @@
         public const string Key_NotActive = "Key_NotActive";
         public const string Label_ChekForUpdate = "Label_ChekForUpdate";
         public const string Label_AutoUpdate = "Label_AutoUpdate";
+        public const string Label_CaptchaId = "Label_CaptchaId";
     }
 }

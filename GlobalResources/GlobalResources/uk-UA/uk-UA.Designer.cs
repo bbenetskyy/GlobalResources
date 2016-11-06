@@ -508,6 +508,15 @@ namespace GlobalResources.uk_UA {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Ключ до сервісу ReCaptcha.
+        /// </summary>
+        public static string Label_CaptchaId {
+            get {
+                return ResourceManager.GetString("Label_CaptchaId", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Перевіряти на наявність оновлень.
         /// </summary>
         public static string Label_ChekForUpdate {
