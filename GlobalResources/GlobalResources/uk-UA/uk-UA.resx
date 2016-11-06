@@ -407,6 +407,12 @@
   </data>
   <data name="Key_NotActive" xml:space="preserve">
     <value>Вийшов термін дії активації ключа. 
-Для подальшоговокористання звернітся до дистриб'ютора.</value>
+Для подальшого використання звернітся до дистриб'ютора.</value>
+  </data>
+  <data name="Label_AutoUpdate" xml:space="preserve">
+    <value>Автоматично оновлятись</value>
+  </data>
+  <data name="Label_ChekForUpdate" xml:space="preserve">
+    <value>Перевіряти на наявність оновлень</value>
   </data>
 </root>

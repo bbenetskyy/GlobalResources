@@ -470,17 +470,8 @@ namespace GlobalResources.uk_UA {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Даний ключ не знайдено!.
-        /// </summary>
-        public static string Key_NotActiv {
-            get {
-                return ResourceManager.GetString("Key_NotActiv", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Вийшов термін дії активації ключа. 
-        ///Для подальшоговокористання звернітся до дистриб&apos;ютора..
+        ///Для подальшого використання звернітся до дистриб&apos;ютора..
         /// </summary>
         public static string Key_NotActive {
             get {
@@ -495,6 +486,33 @@ namespace GlobalResources.uk_UA {
         public static string Key_Used {
             get {
                 return ResourceManager.GetString("Key_Used", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Даний ключ не знайдено!.
+        /// </summary>
+        public static string KeyNotFound {
+            get {
+                return ResourceManager.GetString("KeyNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Автоматично оновлятись.
+        /// </summary>
+        public static string Label_AutoUpdate {
+            get {
+                return ResourceManager.GetString("Label_AutoUpdate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Перевіряти на наявність оновлень.
+        /// </summary>
+        public static string Label_ChekForUpdate {
+            get {
+                return ResourceManager.GetString("Label_ChekForUpdate", resourceCulture);
             }
         }
         
