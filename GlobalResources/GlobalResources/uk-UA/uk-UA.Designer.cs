@@ -499,29 +499,11 @@ namespace GlobalResources.uk_UA {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Автоматично оновлятись.
+        ///   Looks up a localized string similar to Включити автооновлення програми.
         /// </summary>
-        public static string Label_AutoUpdate {
+        public static string lblAutoUpdates {
             get {
-                return ResourceManager.GetString("Label_AutoUpdate", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Ключ до сервісу ReCaptcha.
-        /// </summary>
-        public static string Label_CaptchaId {
-            get {
-                return ResourceManager.GetString("Label_CaptchaId", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Перевіряти на наявність оновлень.
-        /// </summary>
-        public static string Label_ChekForUpdate {
-            get {
-                return ResourceManager.GetString("Label_ChekForUpdate", resourceCulture);
+                return ResourceManager.GetString("lblAutoUpdates", resourceCulture);
             }
         }
         
@@ -540,6 +522,15 @@ namespace GlobalResources.uk_UA {
         public static string lblCancelGroup {
             get {
                 return ResourceManager.GetString("lblCancelGroup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Включити оновлення.
+        /// </summary>
+        public static string lblCheckForUpdates {
+            get {
+                return ResourceManager.GetString("lblCheckForUpdates", resourceCulture);
             }
         }
         
@@ -576,6 +567,15 @@ namespace GlobalResources.uk_UA {
         public static string lblEmail {
             get {
                 return ResourceManager.GetString("lblEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Введіть ключ автопроходження капчі.
+        /// </summary>
+        public static string lblRuCaptchaKey {
+            get {
+                return ResourceManager.GetString("lblRuCaptchaKey", resourceCulture);
             }
         }
         

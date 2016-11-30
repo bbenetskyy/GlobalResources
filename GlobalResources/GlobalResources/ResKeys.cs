@@ -93,8 +93,8 @@
         public const string LicenseForm_RegButton = "LicenseForm_RegButton";
         public const string Worker_IsBusy = "Worker_IsBusy";
         public const string Key_NotActive = "Key_NotActive";
-        public const string Label_ChekForUpdate = "Label_ChekForUpdate";
-        public const string Label_AutoUpdate = "Label_AutoUpdate";
-        public const string Label_CaptchaId = "Label_CaptchaId";
+        public const string lblAutoUpdates = "lblAutoUpdates";
+        public const string lblCheckForUpdates = "lblCheckForUpdates";
+        public const string lblRuCaptchaKey = "lblRuCaptchaKey";
     }
 }

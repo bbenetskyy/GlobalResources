@@ -409,13 +409,13 @@
     <value>Вийшов термін дії активації ключа. 
 Для подальшого використання звернітся до дистриб'ютора.</value>
   </data>
-  <data name="Label_AutoUpdate" xml:space="preserve">
-    <value>Автоматично оновлятись</value>
+  <data name="lblAutoUpdates" xml:space="preserve">
+    <value>Включити автооновлення програми</value>
   </data>
-  <data name="Label_ChekForUpdate" xml:space="preserve">
-    <value>Перевіряти на наявність оновлень</value>
+  <data name="lblCheckForUpdates" xml:space="preserve">
+    <value>Включити оновлення</value>
   </data>
-  <data name="Label_CaptchaId" xml:space="preserve">
-    <value>Ключ до сервісу ReCaptcha</value>
+  <data name="lblRuCaptchaKey" xml:space="preserve">
+    <value>Введіть ключ автопроходження капчі</value>
   </data>
 </root>
